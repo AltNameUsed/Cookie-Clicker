@@ -53,6 +53,7 @@ public class Main {
             obj2.forFun();
             System.out.println(obj2.taste);
             System.out.println(obj2.madeBy);
+            System.out.println(obj2.expDate);
           }
         });
     }
